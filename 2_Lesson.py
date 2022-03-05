@@ -74,8 +74,3 @@ while input('Добавить товар?').lower()=='да':
     catalog.append(ctg)
     num += 1
 print(*catalog, sep="\n")
-
-
-
-
-
