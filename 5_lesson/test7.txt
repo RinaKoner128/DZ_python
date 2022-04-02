@@ -1,0 +1,3 @@
+Panorama 5000 7000
+SibrUnt 15000 9000
+Strzhichayki 8000 3000
